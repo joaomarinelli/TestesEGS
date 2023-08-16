@@ -1,0 +1,14 @@
+D:\Workspace\Teste Egs\Teste_2\bin\Debug\net7.0\Teste_2.exe
+D:\Workspace\Teste Egs\Teste_2\bin\Debug\net7.0\Teste_2.deps.json
+D:\Workspace\Teste Egs\Teste_2\bin\Debug\net7.0\Teste_2.runtimeconfig.json
+D:\Workspace\Teste Egs\Teste_2\bin\Debug\net7.0\Teste_2.dll
+D:\Workspace\Teste Egs\Teste_2\bin\Debug\net7.0\Teste_2.pdb
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.AssemblyInfoInputs.cache
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.AssemblyInfo.cs
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.csproj.CoreCompileInputs.cache
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.dll
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\refint\Teste_2.dll
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.pdb
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\Teste_2.genruntimeconfig.cache
+D:\Workspace\Teste Egs\Teste_2\obj\Debug\net7.0\ref\Teste_2.dll
