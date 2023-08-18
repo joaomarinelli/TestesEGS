@@ -70,13 +70,18 @@ const Form = () => {
             <div className="form-group">
               <label>Data de Nascimento</label>
               <input
-                className={errors?.bithdate && "input-error"}
+                className={errors?.birthdate && "input-error"}
                 type="date"
                 placeholder="Digite sua data de nascimento"
                 {...register("birthdate", {
                   required: true,
                 })}
               />
+              {errors?.birthdate?.type === "required" && (
+                <p className="error-message">
+                  Data de nascimento é obrigatório
+                </p>
+              )}
             </div>
 
             <div className="form-group">
